@@ -1,2 +1,6 @@
-![](http://antzuhl.cn:4000/get/@aotumanbiu)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aotumanbiu)](https://github.com/anuraghazra/github-readme-stats)
+<!-- GitHub数据统计 -->
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=aotumanbiu" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aotumanbiu" />
+</div>
+<br>
